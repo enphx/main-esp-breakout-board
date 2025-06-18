@@ -1,3 +1,5 @@
-hbridge-backups/
+main-esp-breakout-board-backups
+lib/downloads
 fp-info-cache
 *.lck
+*-bak
