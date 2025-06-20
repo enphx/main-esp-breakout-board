@@ -7494,7 +7494,7 @@
 		(at 435.61 326.39)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0353bdcf-dd0f-4ef0-be25-277757fe3007")
+		(uuid "0c72e15e-4ff3-456b-8d4b-a9009f91dd3b")
 	)
 	(junction
 		(at 241.3 44.45)
@@ -7686,13 +7686,7 @@
 		(at 524.51 339.09)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c1dc477d-9f84-4b83-b113-bc0daa360d14")
-	)
-	(junction
-		(at 421.64 66.04)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c35af70c-9f69-4f8d-a24a-63aaf3f489ae")
+		(uuid "c2ddbd7f-e7d9-44e0-98ba-81686e8c83c7")
 	)
 	(junction
 		(at 396.24 88.9)
@@ -7783,6 +7777,16 @@
 	(no_connect
 		(at 523.24 356.87)
 		(uuid "f98feeba-6965-46cd-bf4c-bad7f44d7a44")
+	)
+	(wire
+		(pts
+			(xy 524.51 339.09) (xy 529.59 339.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00f912c0-a8c4-4070-8902-b8a1ceaf9f5b")
 	)
 	(wire
 		(pts
@@ -7973,6 +7977,16 @@
 			(type default)
 		)
 		(uuid "0f42dcc6-037d-4acf-a574-2e2019e57862")
+	)
+	(wire
+		(pts
+			(xy 435.61 326.39) (xy 443.23 326.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f96749d-eed1-436b-aec8-3d9f1aaa90c9")
 	)
 	(wire
 		(pts
@@ -8183,6 +8197,16 @@
 			(type default)
 		)
 		(uuid "29c56499-2811-44b8-b33b-a1c16c2d43c4")
+	)
+	(wire
+		(pts
+			(xy 421.64 64.77) (xy 421.64 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "304aa7dc-9dff-4386-aed2-dcd68b360b87")
 	)
 	(wire
 		(pts
@@ -8506,6 +8530,16 @@
 	)
 	(wire
 		(pts
+			(xy 425.45 64.77) (xy 421.64 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f8e3941-782d-4b12-921a-ce0b2c4b1d9c")
+	)
+	(wire
+		(pts
 			(xy 466.09 170.18) (xy 463.55 170.18)
 		)
 		(stroke
@@ -8543,16 +8577,6 @@
 			(type default)
 		)
 		(uuid "691718a2-725b-440f-b977-05b9fb44df1b")
-	)
-	(wire
-		(pts
-			(xy 524.51 339.09) (xy 529.59 339.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "69adea24-4c07-4da6-a05e-814ec91ef479")
 	)
 	(wire
 		(pts
@@ -8966,6 +8990,16 @@
 	)
 	(wire
 		(pts
+			(xy 435.61 66.04) (xy 427.99 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9daa601b-963f-4f26-986b-3d75f7ff38ff")
+	)
+	(wire
+		(pts
 			(xy 427.99 134.62) (xy 430.53 134.62)
 		)
 		(stroke
@@ -9176,16 +9210,6 @@
 	)
 	(wire
 		(pts
-			(xy 435.61 326.39) (xy 443.23 326.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c354d163-3479-47ac-92f9-c364443a7360")
-	)
-	(wire
-		(pts
 			(xy 415.29 106.68) (xy 403.86 106.68)
 		)
 		(stroke
@@ -9243,16 +9267,6 @@
 			(type default)
 		)
 		(uuid "cca9a8d6-93c6-4dc7-b938-419ac69440a5")
-	)
-	(wire
-		(pts
-			(xy 421.64 66.04) (xy 421.64 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cd700ebb-e681-4a10-bb45-e301ee51053c")
 	)
 	(wire
 		(pts
@@ -9406,13 +9420,13 @@
 	)
 	(wire
 		(pts
-			(xy 421.64 66.04) (xy 435.61 66.04)
+			(xy 427.99 66.04) (xy 427.99 64.77)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "df900a88-d6a3-47d0-a790-b94005ca3ce7")
+		(uuid "dbaa2450-76fe-42d8-979c-d98115e94dc6")
 	)
 	(wire
 		(pts
@@ -9573,16 +9587,6 @@
 			(type default)
 		)
 		(uuid "f8853c27-1809-43e0-92cd-cbb2d3cc631f")
-	)
-	(wire
-		(pts
-			(xy 421.64 63.5) (xy 421.64 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f9c5ee52-a96f-4f7c-9dce-87bd0ad5a796")
 	)
 	(wire
 		(pts
@@ -10573,28 +10577,6 @@
 		(uuid "357c25cd-3fb2-4848-8d68-575c38a33965")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 361.7467 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MUX_BYPASS"
-		(shape input)
-		(at 421.64 63.5 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "3610e1e8-aa56-4147-bad4-6830c343af45")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 406.5596 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13530,6 +13512,28 @@
 			)
 		)
 	)
+	(global_label "MUX_BYPASS"
+		(shape input)
+		(at 433.07 66.04 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e2e90dd4-54c1-401e-8eb5-22d21e0081e1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 433.07 50.9596 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "supply_3.3"
 		(shape input)
 		(at 54.61 152.4 0)
@@ -14375,7 +14379,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Project_Lib:Resistor_With_Value"
 			(at 378.968 63.5 90)
 			(effects
 				(font
@@ -14512,7 +14516,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-15_P5.08mm_Vertical_KathodeUp"
+		(property "Footprint" "Project_Lib:zener_diode"
 			(at 53.34 121.92 0)
 			(effects
 				(font
@@ -14866,7 +14870,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-15_P5.08mm_Vertical_KathodeUp"
+		(property "Footprint" "Project_Lib:zener_diode"
 			(at 58.42 110.49 0)
 			(effects
 				(font
@@ -15006,7 +15010,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Project_Lib:Resistor_With_Value"
 			(at 269.748 144.78 90)
 			(effects
 				(font
@@ -15076,7 +15080,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Project_Lib:Resistor_With_Value"
 			(at 282.448 120.65 90)
 			(effects
 				(font
@@ -15663,24 +15667,22 @@
 		(fields_autoplaced yes)
 		(uuid "20b90be8-406a-430c-a49b-22499c3dbdc5")
 		(property "Reference" "C6"
-			(at 441.9599 29.21 0)
+			(at 443.23 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "1nF"
-			(at 444.4999 29.21 0)
+		(property "Value" "100nF"
+			(at 443.23 27.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
+		(property "Footprint" "Project_Lib:Capacitor_With_Value_nF"
 			(at 447.04 32.0548 0)
 			(effects
 				(font
@@ -15798,7 +15800,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "27534913-a931-4ece-bbb4-e16749ac076b")
-		(property "Reference" "C1"
+		(property "Reference" "CP2"
 			(at 265.43 47.3709 0)
 			(effects
 				(font
@@ -15816,7 +15818,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
+		(property "Footprint" "Project_Lib:Capacitor_With_Value_uF_small"
 			(at 262.5852 53.34 0)
 			(effects
 				(font
@@ -15852,7 +15854,7 @@
 		(instances
 			(project ""
 				(path "/83842d7a-fba6-4c6e-bc59-a7e360265071"
-					(reference "C1")
+					(reference "CP2")
 					(unit 1)
 				)
 			)
@@ -16729,7 +16731,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Project_Lib:Resistor_With_Value"
 			(at 320.04 208.788 90)
 			(effects
 				(font
@@ -16866,7 +16868,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Project_Lib:Resistor_With_Value"
 			(at 387.858 109.22 90)
 			(effects
 				(font
@@ -17068,7 +17070,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Project_Lib:Resistor_With_Value"
 			(at 382.27 97.028 90)
 			(effects
 				(font
@@ -17136,7 +17138,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Project_Lib:Resistor_With_Value"
 			(at 393.7 215.138 90)
 			(effects
 				(font
@@ -17340,7 +17342,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-15_P5.08mm_Vertical_KathodeUp"
+		(property "Footprint" "Project_Lib:zener_diode"
 			(at 200.66 172.72 0)
 			(effects
 				(font
@@ -17410,7 +17412,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Project_Lib:Resistor_With_Value"
 			(at 335.788 196.85 90)
 			(effects
 				(font
@@ -17546,7 +17548,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-15_P5.08mm_Vertical_KathodeUp"
+		(property "Footprint" "Project_Lib:zener_diode"
 			(at 200.66 158.75 0)
 			(effects
 				(font
@@ -17680,7 +17682,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Project_Lib:Resistor_With_Value"
 			(at 429.26 175.768 90)
 			(effects
 				(font
@@ -18148,7 +18150,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Project_Lib:Resistor_With_Value"
 			(at 357.378 160.02 90)
 			(effects
 				(font
@@ -18193,7 +18195,7 @@
 	(symbol
 		(lib_id "Device:C")
 		(at 524.51 335.28 0)
-		(mirror y)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18207,20 +18209,20 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "1nF"
+		(property "Value" "1uF"
 			(at 520.7 336.5499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
-			(at 523.5448 339.09 0)
+		(property "Footprint" "Project_Lib:Capacitor_With_Value_uF_small"
+			(at 525.4752 331.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19309,7 +19311,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Project_Lib:Resistor_With_Value"
 			(at 341.63 171.958 90)
 			(effects
 				(font
@@ -20013,7 +20015,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-15_P5.08mm_Vertical_KathodeUp"
+		(property "Footprint" "Project_Lib:zener_diode"
 			(at 66.04 162.56 0)
 			(effects
 				(font
@@ -20593,24 +20595,24 @@
 		(fields_autoplaced yes)
 		(uuid "8dca60fd-304c-42d5-9685-85ad2b2353fb")
 		(property "Reference" "C9"
-			(at 472.44 101.6001 0)
+			(at 480.06 99.0599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "1nF"
-			(at 472.44 99.0601 0)
+		(property "Value" "100nF"
+			(at 480.06 101.5999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
+		(property "Footprint" "Project_Lib:Capacitor_With_Value_nF"
 			(at 475.2848 96.52 0)
 			(effects
 				(font
@@ -20720,6 +20722,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x02_Socket")
+		(at 425.45 59.69 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9009585c-6afd-4cd1-9d37-9514b982981f")
+		(property "Reference" "J_debounce1"
+			(at 425.4499 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x02_Socket"
+			(at 427.9899 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
+			(at 425.45 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 425.45 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 425.45 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "739db419-ac69-4386-90ec-67ceeca1b7bf")
+		)
+		(pin "2"
+			(uuid "a9280923-b155-43a9-92d7-91f799e88825")
+		)
+		(instances
+			(project "main-esp-breakout-board"
+				(path "/83842d7a-fba6-4c6e-bc59-a7e360265071"
+					(reference "J_debounce1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 71.12 243.84 90)
 		(unit 1)
@@ -20805,7 +20876,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1nF"
+		(property "Value" "100nF"
 			(at 447.04 323.8499 0)
 			(effects
 				(font
@@ -20814,7 +20885,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
+		(property "Footprint" "Project_Lib:Capacitor_With_Value_nF"
 			(at 444.1952 326.39 0)
 			(effects
 				(font
@@ -21137,7 +21208,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9f9559f0-cfef-4fb2-b781-4867a9a9289d")
-		(property "Reference" "C2"
+		(property "Reference" "CP1"
 			(at 245.11 36.4489 0)
 			(effects
 				(font
@@ -21155,7 +21226,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
+		(property "Footprint" "Project_Lib:Capacitor_With_Value_uF_small"
 			(at 240.3348 33.02 0)
 			(effects
 				(font
@@ -21191,7 +21262,7 @@
 		(instances
 			(project "main-esp-breakout-board"
 				(path "/83842d7a-fba6-4c6e-bc59-a7e360265071"
-					(reference "C2")
+					(reference "CP1")
 					(unit 1)
 				)
 			)
@@ -21367,7 +21438,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-15_P5.08mm_Vertical_KathodeUp"
+		(property "Footprint" "Project_Lib:zener_diode"
 			(at 426.72 77.47 0)
 			(effects
 				(font
@@ -21574,7 +21645,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Project_Lib:Resistor_With_Value"
 			(at 372.11 121.158 90)
 			(effects
 				(font
@@ -21996,7 +22067,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Project_Lib:Resistor_With_Value"
 			(at 128.27 101.092 90)
 			(effects
 				(font
@@ -22462,7 +22533,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "1k"
 			(at 419.1 73.6599 0)
 			(effects
 				(font
@@ -22471,7 +22542,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Project_Lib:Resistor_With_Value"
 			(at 419.862 72.39 90)
 			(effects
 				(font
@@ -22749,7 +22820,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Project_Lib:Resistor_With_Value"
 			(at 254 156.718 90)
 			(effects
 				(font
@@ -23073,7 +23144,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 443.23 45.72 90)
+		(at 443.23 45.72 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23082,25 +23153,23 @@
 		(fields_autoplaced yes)
 		(uuid "c131cc75-2c53-4a65-8415-cc7deff98ed6")
 		(property "Reference" "C7"
-			(at 441.9599 41.91 0)
+			(at 443.23 38.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "1nF"
-			(at 444.4999 41.91 0)
+		(property "Value" "1uF"
+			(at 443.23 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
-			(at 447.04 44.7548 0)
+		(property "Footprint" "Project_Lib:Capacitor_With_Value_uF_small"
+			(at 439.42 46.6852 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23605,7 +23674,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Project_Lib:Resistor_With_Value"
 			(at 389.128 36.83 90)
 			(effects
 				(font
@@ -23659,24 +23728,24 @@
 		(fields_autoplaced yes)
 		(uuid "c8d8d454-6a03-453b-9289-fa0d97d6c06e")
 		(property "Reference" "C14"
-			(at 114.3 191.7701 0)
+			(at 106.68 189.2299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "1nF"
-			(at 114.3 189.2301 0)
+		(property "Value" "100nF"
+			(at 106.68 191.7699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
+		(property "Footprint" "Project_Lib:Capacitor_With_Value_nF"
 			(at 111.4552 186.69 0)
 			(effects
 				(font
@@ -23822,7 +23891,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Project_Lib:Resistor_With_Value"
 			(at 409.448 203.2 90)
 			(effects
 				(font
@@ -24107,7 +24176,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Project_Lib:Resistor_With_Value"
 			(at 445.008 163.83 90)
 			(effects
 				(font
@@ -24241,7 +24310,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Project_Lib:Resistor_With_Value"
 			(at 266.7 132.588 90)
 			(effects
 				(font
@@ -24367,7 +24436,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1nF"
+		(property "Value" "100nF"
 			(at 533.4 336.5499 0)
 			(effects
 				(font
@@ -24376,7 +24445,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
+		(property "Footprint" "Project_Lib:Capacitor_With_Value_nF"
 			(at 530.5552 339.09 0)
 			(effects
 				(font
@@ -24428,7 +24497,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dca0d836-1036-4f81-b5b9-1b2a1a1d41b5")
-		(property "Reference" "C13"
+		(property "Reference" "CP3"
 			(at 308.61 28.3209 0)
 			(effects
 				(font
@@ -24437,7 +24506,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uf"
+		(property "Value" "100uf"
 			(at 308.61 30.8609 0)
 			(effects
 				(font
@@ -24446,7 +24515,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
+		(property "Footprint" "Project_Lib:Capacitor_With_Value_uF_big"
 			(at 305.7652 34.29 0)
 			(effects
 				(font
@@ -24482,7 +24551,7 @@
 		(instances
 			(project "main-esp-breakout-board"
 				(path "/83842d7a-fba6-4c6e-bc59-a7e360265071"
-					(reference "C13")
+					(reference "CP3")
 					(unit 1)
 				)
 			)
@@ -24490,7 +24559,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 435.61 322.58 0)
+		(at 435.61 322.58 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24504,20 +24573,20 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "1nF"
+		(property "Value" "1uF"
 			(at 439.42 323.8499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
-			(at 436.5752 326.39 0)
+		(property "Footprint" "Project_Lib:Capacitor_With_Value_uF_small"
+			(at 434.6448 318.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24760,7 +24829,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 104.14 190.5 180)
+		(at 104.14 190.5 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24769,7 +24838,7 @@
 		(fields_autoplaced yes)
 		(uuid "e0eb4742-3624-499b-b80c-8b4be25b604a")
 		(property "Reference" "C10"
-			(at 100.33 191.7701 0)
+			(at 107.95 189.2299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24777,8 +24846,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1nF"
-			(at 100.33 189.2301 0)
+		(property "Value" "1uF"
+			(at 107.95 191.7699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24786,8 +24855,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
-			(at 103.1748 186.69 0)
+		(property "Footprint" "Project_Lib:Capacitor_With_Value_uF_small"
+			(at 105.1052 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25026,7 +25095,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "1uF"
 			(at 417.83 83.8199 0)
 			(effects
 				(font
@@ -25035,7 +25104,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
+		(property "Footprint" "Project_Lib:Capacitor_With_Value_uF_small"
 			(at 420.6748 86.36 0)
 			(effects
 				(font
@@ -25502,7 +25571,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Project_Lib:Resistor_With_Value"
 			(at 373.38 50.038 90)
 			(effects
 				(font
@@ -25775,7 +25844,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Project_Lib:Resistor_With_Value"
 			(at 398.018 83.82 90)
 			(effects
 				(font
@@ -25843,7 +25912,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Project_Lib:Resistor_With_Value"
 			(at 363.22 76.708 90)
 			(effects
 				(font
@@ -25887,34 +25956,34 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 467.36 100.33 180)
+		(at 467.36 100.33 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f78089d1-2c97-462e-8458-84d5ead36b1c")
 		(property "Reference" "C8"
-			(at 463.55 101.6001 0)
+			(at 471.17 101.6001 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "1nF"
-			(at 463.55 99.0601 0)
+		(property "Value" "1uF"
+			(at 471.17 99.0601 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
-			(at 466.3948 96.52 0)
+		(property "Footprint" "Project_Lib:Capacitor_With_Value_uF_small"
+			(at 466.3948 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26056,7 +26125,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-15_P5.08mm_Vertical_KathodeUp"
+		(property "Footprint" "Project_Lib:zener_diode"
 			(at 69.85 151.13 0)
 			(effects
 				(font
@@ -26124,7 +26193,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Project_Lib:Resistor_With_Value"
 			(at 128.27 100.838 90)
 			(effects
 				(font

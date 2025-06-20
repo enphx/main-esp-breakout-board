@@ -1,0 +1,209 @@
+(footprint "zener_diode"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Diode, DO-15 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf")
+	(tags "Diode DO-15 series Axial Vertical pin pitch 5.08mm  length 7.6mm diameter 3.6mm")
+	(property "Reference" "REF**"
+		(at 2.54 -2.92 0)
+		(layer "F.SilkS")
+		(uuid "4b5cf05b-29fd-45d6-b82f-8533bfcf8b9d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "D_DO-15_P5.08mm_Vertical_KathodeUp"
+		(at 2.54 2.92 0)
+		(layer "F.Fab")
+		(uuid "be3ea822-07f5-4acc-b212-fc1a2402a4bf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d7606815-b005-4071-b3c3-22cf8711d258")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f3b1d470-507f-4c5f-b9cb-17d0a0530b4f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 1.25 0)
+		(end 3.802637 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0af54ad0-8851-4614-80ad-652f3d35f0de")
+	)
+	(fp_line
+		(start 1.5 1.5)
+		(end 2 1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "437a36c1-7981-48b6-a178-1aa1ca539ccd")
+	)
+	(fp_line
+		(start 2 -1)
+		(end 2.5 -1.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "ccd70c30-798a-4c61-bcf0-9ed0cea54c47")
+	)
+	(fp_line
+		(start 2 1)
+		(end 2 -1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "29e8d84b-b202-4af2-b712-1b53e17143e6")
+	)
+	(fp_poly
+		(pts
+			(xy 3.5 1) (xy 3.5 -1) (xy 2 0)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "50bc0c2e-d571-4a22-982a-87ec58f652c8")
+	)
+	(fp_line
+		(start -1.45 -2.05)
+		(end -1.45 2.05)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c426027f-0956-4ef9-bde8-3183effc4581")
+	)
+	(fp_line
+		(start -1.45 2.05)
+		(end 7.13 2.05)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a3edad42-2d31-411c-b413-7f0a2fdc8925")
+	)
+	(fp_line
+		(start 7.13 -2.05)
+		(end -1.45 -2.05)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0e09302c-accb-4d5f-ae1c-9674d46a25db")
+	)
+	(fp_line
+		(start 7.13 2.05)
+		(end 7.13 -2.05)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "bb7a08e5-d73c-4c9d-bca9-89d8ade1aef0")
+	)
+	(fp_line
+		(start 0 0)
+		(end 5.08 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "960ec182-247e-42e0-a37c-898d0f34ce7e")
+	)
+	(fp_circle
+		(center 5.08 0)
+		(end 6.88 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "db63c17a-a5dc-4497-9552-296788e2e070")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 2.54 -2.92 0)
+		(layer "F.Fab")
+		(uuid "5f07cfef-7fd8-4476-89d0-ce1fb0ebffaa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 2.4 2.4)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1e434d39-ecb8-4922-82c2-1dc6003e4c32")
+	)
+	(pad "2" thru_hole oval
+		(at 5.08 0)
+		(size 2.4 2.4)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "70f4e977-77ba-4061-b5be-8234ff290243")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-15_P5.08mm_Vertical_KathodeUp.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
