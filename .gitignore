@@ -3,3 +3,4 @@ lib/downloads
 fp-info-cache
 *.lck
 *-bak
+production

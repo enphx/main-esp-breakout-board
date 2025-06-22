@@ -22168,7 +22168,7 @@
 			)
 		)
 	)
-	(footprint "Project_Lib:Untitled"
+	(footprint "Project_Lib:ESP32_Pico_Devkit"
 		(layer "F.Cu")
 		(uuid "6e9b9465-aa17-4698-8466-8cf9a2d7eb2b")
 		(at 136.5 65.73)
@@ -22235,7 +22235,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "6d06bcfa-0ec4-4bdf-9407-26cdcc99f17b")
+			(uuid "93fc4b02-4d68-48b3-a768-88e71e5a63f4")
 		)
 		(fp_rect
 			(start 20.32 -3.08)
@@ -22246,7 +22246,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "d5b1c1fb-7095-4708-be2c-58719a536bf0")
+			(uuid "b64273a8-793d-4010-a62b-6ca3fe625884")
 		)
 		(fp_poly
 			(pts
@@ -22259,7 +22259,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "83088ee5-be14-405e-b353-da34493b14bc")
+			(uuid "4d080f2a-cb23-4edb-90c0-50f151c7004a")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.5 0)
@@ -22612,7 +22612,7 @@
 			(net 1 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "b585b8fb-9ee7-41aa-8760-25fe7a74d177")
+			(uuid "bba01534-ca17-45d2-a016-415db29d40d3")
 		)
 		(pad "40" thru_hole oval
 			(at 20.32 10.16 270)
@@ -22623,7 +22623,7 @@
 			(net 1 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "c0ead832-a182-4150-957d-28b5407472d7")
+			(uuid "bba01534-ca17-45d2-a016-415db29d40d3")
 		)
 		(pad "41" thru_hole oval
 			(at 22.86 10.16 270)
@@ -22656,7 +22656,7 @@
 			(net 13 "esp_3.3")
 			(pinfunction "3V3")
 			(pintype "power_out")
-			(uuid "cbbfaaea-f92a-4c77-8bf2-c74e520b808c")
+			(uuid "b0b47195-ce02-4c0a-85a6-d5919a6ff2e6")
 		)
 		(pad "43" thru_hole oval
 			(at 17.78 -7.62 270)

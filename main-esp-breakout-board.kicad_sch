@@ -23236,7 +23236,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Project_Lib:Untitled"
+		(property "Footprint" "Project_Lib:ESP32_Pico_Devkit"
 			(at 166.37 135.89 0)
 			(effects
 				(font
